@@ -1,3 +1,8 @@
+---
+name: New Issue
+about: Use this template for creating a new issue
+---
+
 # 개요
 - 이 곳에 기능에 대해 간략히 설명해주세요<br>
   배경, 핵심 기능에 대해 작성합니다.
